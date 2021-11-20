@@ -3,6 +3,8 @@ contentKey: blog
 title: Watford vs Manchester United
 date: 2021-11-20T17:28:22.466Z
 ---
+![](/img/watmanu2021.jpg)
+
 <!--StartFragment-->
 
 The Hornets should have been in front Ismaila Sarr missed two penalties, one of which was a re-take due to encroachment.
@@ -20,7 +22,3 @@ The Norwegian Solskjaer's position has been heavily scrutinised over recent week
 After Chelsea's fine 3-0 victory at Leicester City in Saturday's early match, United were 12 points behind the leaders.
 
 It's going to be an interesting few days at Old Trafford.
-
-> <!--EndFragment-->
->
-> ![watmanu2021](/img/watmanu2021.jpg "Watford Manchester")
