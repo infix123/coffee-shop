@@ -4,7 +4,13 @@ branch: master
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: posts
-    identifier_field: name
+ -name: "blog"
+	 label: "Blog"
+	 folder: "src/blog"
+	 create: "true"  
+fields:
+		 name: "body"
+		 widget: "markdown"
+	
 	
 
